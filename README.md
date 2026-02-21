@@ -31,7 +31,7 @@ cortex
 ```
 
 Use browser to setup connections file. 
-![screenshot](assets/add_connections.png)
+![screenshot](add_connections.png)
 
 Once in Cortex Code, verify your connection:
 
