@@ -45,11 +45,13 @@ Once in Cortex Code, verify your connection:
 show me my current role and database
 ```
 
-Prompt Cortex to get `SNOWFLAKE_PUBLIC_DATA_FREE.PUBLIC_DATA_FREE`
+Back in Snowsight, go to the Marketplace and search for Snowflake Public Data (Free). 
 
-```
-Get me access to SNOWFLAKE_PUBLIC_DATA_FREE.PUBLIC_DATA_FREE on the marketplace
-```
+![screenshot](snowflake_public_data.png)
+
+Press Get, enter email, then enter the following info.
+
+![screenshot](get_data.png)
 
 ---
 
