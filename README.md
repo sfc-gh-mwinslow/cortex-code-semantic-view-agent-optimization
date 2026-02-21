@@ -33,6 +33,12 @@ cortex
 Use browser to setup connections file. 
 ![screenshot](add_connections.png)
 
+If you hit an error, you will need to go back to Snowsight (Snowflake Browser) and run the following command as ADMIN
+
+```
+ALTER ACCOUNT SET CORTEX_ENABLED_CROSS_REGION = 'ANY_REGION';
+```
+
 Once in Cortex Code, verify your connection:
 
 ```
