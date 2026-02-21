@@ -20,10 +20,18 @@ Download Cortex Code
 curl -LsS https://ai.snowflake.com/static/cc-scripts/install.sh | sh
 ```
 
+Podman not required for demo. Don't install
+```shell
+Podman is required for sandbox functionality. Would you like to install it? [Y/n] n
+```
+
 ```shell
 # Start Cortex Code
 cortex
 ```
+
+Use browser to setup connections file. 
+![screenshot](assets/add_connections.png)
 
 Once in Cortex Code, verify your connection:
 
